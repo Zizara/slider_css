@@ -19,7 +19,6 @@
     animation-delay: 2s;
     animation-direction: alternate;
 }
-
 @keyframes slide {
     0% {
         transform: translateX(0px);
